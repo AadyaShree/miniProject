@@ -1,2 +1,2 @@
 # miniProject
-Author - Aadya Shree
+Author -<br>Aadya Shree
